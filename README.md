@@ -42,8 +42,11 @@ User: Researcher
 •	Notice: User can see new announcements with details uploaded by admin.
 
 •	Fund Request: User can request funds for needing any equipment or any conferences.
+
 •	Book Equipment: User can the booked equipment’s as per their need and must approve by lab leader.
+
 •	Settings: User can update their profile by changing username, email and password with validation and manage their account.
+
 •	Logout: After clicking logout user will go to the login page again.
 
  
